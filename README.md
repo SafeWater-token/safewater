@@ -8,7 +8,7 @@ Twitter: https://twitter.com/safewatercoin
 
 Github: https://github.com/SafeWater-token
 
-Telegram Chat: https://t.me/safewater_chat
+Telegram Chat: https://t.me/SafeWater_Community
 
 Telegram Announcement: https://t.me/safewatertoken
 
